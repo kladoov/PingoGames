@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PingoGames</string>
+    <string name="Preferencias_email">preferencias_email</string>
+    <string name="Preferencias_registro_nuevo">preferencias_registro_nuevo</string>
+    <string name="UsuarioScrolling">usuarioScrolling</string>
+    <string name="PuntosObtenidos">puntosObtenidos</string>
+    <string name="NuevoRecordPuntos">nuevoRecordPuntos</string>
+
+
+
+    <string name="channel_name">Primer texto</string>
+    <string name="channel_description">Segundo texto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "En la gélida Antártida, vive Pingo, un intrépido y un poco gordito pingüino curioso y "
+        "aventurero. Explora los vastos territorios helados y se sumerge en las frías aguas del "
+        "océano en busca de emocionantes aventuras. Además, ha creado dos divertidos minijuegos: "
+        ""Hundir la flota" y "Clicks Pingo", para entretenerse y desafiar su ingenio."
+        "A pesar de las condiciones extremas, Pingo disfruta cada momento y es un tesoro del Polo "
+        "Sur con su valentía y alegría contagiosa. \n\n"
+        "Su hogar, un acogedor refugio construido con bloques de hielo y rodeado de paisajes "
+        "impresionantes, es el centro de las reuniones y celebraciones entre amigos. "
+        "En sus momentos de descanso, Pingo disfruta contemplando las auroras boreales que "
+        "iluminan el cielo nocturno de la Antártida, maravillado por su belleza hipnótica. "
+        "Aunque su dieta principal consiste en pescado fresco atrapado en las gélidas aguas, "
+        "de vez en cuando se permite algún capricho dulce como las algas azucaradas que encuentra "
+        "en la costa.\n\n"
+        "Su habilidad para comunicarse con otras especies animales, como las focas y las ballenas, "
+        "lo convierte en un mediador pacífico y respetado en su ecosistema. "
+        "Pingo es un defensor apasionado del medio ambiente y dedica parte de su tiempo a "
+        "concienciar a otros pingüinos sobre la importancia de preservar la vida silvestre y el "
+        "ecosistema antártico.\n\n"
+        "Durante las tormentas de nieve, Pingo demuestra su valentía liderando a su comunidad "
+        "hacia refugios seguros, garantizando la seguridad y el bienestar de todos."
+    </string>
+</resources>
